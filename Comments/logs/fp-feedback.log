@@ -1,0 +1,216 @@
+Error: Cannot find module 'app-root-path'
+Require stack:
+- D:\IT\webintro\fp-service-feedback\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:1014:15)
+    at Module.Hook._require.Module.require (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\IT\webintro\fp-service-feedback\bin\www:2:14)
+    at Module._compile (internal/modules/cjs/loader.js:1185:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1205:10)
+    at Module.load (internal/modules/cjs/loader.js:1034:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:923:14)
+    at C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:301:25
+    at wrapper (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+Error: Cannot find module 'app-root-path'
+Require stack:
+- D:\IT\webintro\fp-service-feedback\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:1014:15)
+    at Module.Hook._require.Module.require (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\IT\webintro\fp-service-feedback\bin\www:2:14)
+    at Module._compile (internal/modules/cjs/loader.js:1185:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1205:10)
+    at Module.load (internal/modules/cjs/loader.js:1034:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:923:14)
+    at C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:301:25
+    at wrapper (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+Error: Cannot find module 'app-root-path'
+Require stack:
+- D:\IT\webintro\fp-service-feedback\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:1014:15)
+    at Module.Hook._require.Module.require (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\IT\webintro\fp-service-feedback\bin\www:2:14)
+    at Module._compile (internal/modules/cjs/loader.js:1185:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1205:10)
+    at Module.load (internal/modules/cjs/loader.js:1034:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:923:14)
+    at C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:301:25
+    at wrapper (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+Error: Cannot find module 'app-root-path'
+Require stack:
+- D:\IT\webintro\fp-service-feedback\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:1014:15)
+    at Module.Hook._require.Module.require (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\IT\webintro\fp-service-feedback\bin\www:2:14)
+    at Module._compile (internal/modules/cjs/loader.js:1185:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1205:10)
+    at Module.load (internal/modules/cjs/loader.js:1034:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:923:14)
+    at C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:301:25
+    at wrapper (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+Error: Cannot find module 'app-root-path'
+Require stack:
+- D:\IT\webintro\fp-service-feedback\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:1014:15)
+    at Module.Hook._require.Module.require (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\IT\webintro\fp-service-feedback\bin\www:2:14)
+    at Module._compile (internal/modules/cjs/loader.js:1185:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1205:10)
+    at Module.load (internal/modules/cjs/loader.js:1034:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:923:14)
+    at C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:301:25
+    at wrapper (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+Error: Cannot find module 'app-root-path'
+Require stack:
+- D:\IT\webintro\fp-service-feedback\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:1014:15)
+    at Module.Hook._require.Module.require (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\IT\webintro\fp-service-feedback\bin\www:2:14)
+    at Module._compile (internal/modules/cjs/loader.js:1185:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1205:10)
+    at Module.load (internal/modules/cjs/loader.js:1034:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:923:14)
+    at C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:301:25
+    at wrapper (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+Error: Cannot find module 'app-root-path'
+Require stack:
+- D:\IT\webintro\fp-service-feedback\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:1014:15)
+    at Module.Hook._require.Module.require (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\IT\webintro\fp-service-feedback\bin\www:2:14)
+    at Module._compile (internal/modules/cjs/loader.js:1185:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1205:10)
+    at Module.load (internal/modules/cjs/loader.js:1034:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:923:14)
+    at C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:301:25
+    at wrapper (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+Error: Cannot find module 'app-root-path'
+Require stack:
+- D:\IT\webintro\fp-service-feedback\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:1014:15)
+    at Module.Hook._require.Module.require (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\IT\webintro\fp-service-feedback\bin\www:2:14)
+    at Module._compile (internal/modules/cjs/loader.js:1185:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1205:10)
+    at Module.load (internal/modules/cjs/loader.js:1034:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:923:14)
+    at C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:301:25
+    at wrapper (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+Error: Cannot find module 'app-root-path'
+Require stack:
+- D:\IT\webintro\fp-service-feedback\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:1014:15)
+    at Module.Hook._require.Module.require (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\IT\webintro\fp-service-feedback\bin\www:2:14)
+    at Module._compile (internal/modules/cjs/loader.js:1185:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1205:10)
+    at Module.load (internal/modules/cjs/loader.js:1034:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:923:14)
+    at C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:301:25
+    at wrapper (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+Error: Cannot find module 'app-root-path'
+Require stack:
+- D:\IT\webintro\fp-service-feedback\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:1014:15)
+    at Module.Hook._require.Module.require (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\IT\webintro\fp-service-feedback\bin\www:2:14)
+    at Module._compile (internal/modules/cjs/loader.js:1185:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1205:10)
+    at Module.load (internal/modules/cjs/loader.js:1034:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:923:14)
+    at C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:301:25
+    at wrapper (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+Error: Cannot find module 'app-root-path'
+Require stack:
+- D:\IT\webintro\fp-service-feedback\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:1014:15)
+    at Module.Hook._require.Module.require (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\IT\webintro\fp-service-feedback\bin\www:2:14)
+    at Module._compile (internal/modules/cjs/loader.js:1185:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1205:10)
+    at Module.load (internal/modules/cjs/loader.js:1034:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:923:14)
+    at C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:301:25
+    at wrapper (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+Error: Cannot find module 'app-root-path'
+Require stack:
+- D:\IT\webintro\fp-service-feedback\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:1014:15)
+    at Module.Hook._require.Module.require (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\IT\webintro\fp-service-feedback\bin\www:2:14)
+    at Module._compile (internal/modules/cjs/loader.js:1185:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1205:10)
+    at Module.load (internal/modules/cjs/loader.js:1034:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:923:14)
+    at C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:301:25
+    at wrapper (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+Error: Cannot find module 'app-root-path'
+Require stack:
+- D:\IT\webintro\fp-service-feedback\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:1014:15)
+    at Module.Hook._require.Module.require (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\IT\webintro\fp-service-feedback\bin\www:2:14)
+    at Module._compile (internal/modules/cjs/loader.js:1185:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1205:10)
+    at Module.load (internal/modules/cjs/loader.js:1034:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:923:14)
+    at C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:301:25
+    at wrapper (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+Error: Cannot find module 'app-root-path'
+Require stack:
+- D:\IT\webintro\fp-service-feedback\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:1014:15)
+    at Module.Hook._require.Module.require (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\IT\webintro\fp-service-feedback\bin\www:2:14)
+    at Module._compile (internal/modules/cjs/loader.js:1185:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1205:10)
+    at Module.load (internal/modules/cjs/loader.js:1034:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:923:14)
+    at C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:301:25
+    at wrapper (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+Error: Cannot find module 'app-root-path'
+Require stack:
+- D:\IT\webintro\fp-service-feedback\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:1014:15)
+    at Module.Hook._require.Module.require (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\IT\webintro\fp-service-feedback\bin\www:2:14)
+    at Module._compile (internal/modules/cjs/loader.js:1185:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1205:10)
+    at Module.load (internal/modules/cjs/loader.js:1034:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:923:14)
+    at C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:301:25
+    at wrapper (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+Error: Cannot find module 'app-root-path'
+Require stack:
+- D:\IT\webintro\fp-service-feedback\bin\www
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:1014:15)
+    at Module.Hook._require.Module.require (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\IT\webintro\fp-service-feedback\bin\www:2:14)
+    at Module._compile (internal/modules/cjs/loader.js:1185:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1205:10)
+    at Module.load (internal/modules/cjs/loader.js:1034:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:923:14)
+    at C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:301:25
+    at wrapper (C:\Users\lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+{"message":"Express server listening on port 3000","level":"info"}
+{"message":"::1 - - [30/Apr/2020:13:59:17 +0000] \"GET /feedback/reviews HTTP/1.1\" 200 1506 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36\"\n","level":"info"}
+{"message":"::1 - - [30/Apr/2020:13:59:18 +0000] \"GET /favicon.ico HTTP/1.1\" 404 1075 \"http://localhost:3000/feedback/reviews\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36\"\n","level":"info"}
+{"message":"::1 - - [30/Apr/2020:13:59:23 +0000] \"GET / HTTP/1.1\" 200 668 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36\"\n","level":"info"}
+{"message":"Express server listening on port 3000","level":"info"}
+{"message":"::1 - - [01/May/2020:09:15:02 +0000] \"GET / HTTP/1.1\" 200 668 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36\"\n","level":"info"}
+{"message":"::1 - - [01/May/2020:09:15:06 +0000] \"GET /favicon.ico HTTP/1.1\" 404 1075 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36\"\n","level":"info"}
+{"message":"::1 - - [01/May/2020:09:15:09 +0000] \"GET /feedback HTTP/1.1\" 200 668 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36\"\n","level":"info"}
