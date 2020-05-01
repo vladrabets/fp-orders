@@ -1,1 +1,1 @@
-# fp-orders
+# Skeleton project for Swagger
